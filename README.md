@@ -3,7 +3,7 @@ A predictive model for degradation of doped TiO2 photocatalytic wastewater pollu
 
 ## Description
 
-This is a set of scripts to generate results of our paper: Data-driven for accelerated design strategy of photocatalytic degradation activity prediction of doped TiO2 photocatalyst
+This is a set of scripts to generate results of our paper: Data-driven for accelerated design strategy of photocatalytic degradation activity prediction of doped TiO2 photocatalyst.
 
 ## Note
 The results are based on the following versions of related libraries.
